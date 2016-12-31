@@ -1,2 +1,4 @@
 # BMRST-EducationalGame
-Bautista, Monroy, Reyes, Santiago, Tiongco
+
+Educational Game made by Bautista, Monroy, Reyes, Santiago and Tiongco
+Powered by Unity Engine1
